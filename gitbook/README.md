@@ -1,4 +1,4 @@
-# User Manual fot Data Platform
+# User Manual for Data Platform
 
 ###### Version 1.0.0.0
 
