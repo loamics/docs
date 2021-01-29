@@ -8,4 +8,6 @@
 
 1. Edit and maintain your documentation in [Markdown](https://www.markdownguide.org/) or [Html](https://www.w3schools.com/html/).
 
+1. Access Web Doc in https://loamics-plateform.github.io/docs/
+
 1. That's all !
