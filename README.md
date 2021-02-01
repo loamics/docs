@@ -1,4 +1,4 @@
-# PaaS by Energisme | Documentation
+# PaaS by Loamics | Documentation
 
 1. Documentation content located in **gitbook/**.
 
