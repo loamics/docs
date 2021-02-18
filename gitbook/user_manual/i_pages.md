@@ -4,9 +4,9 @@
 
 ## I. About this document
 
+This document explains about below parameters screen when deploying:  
 ![basics](imgs/basics_tab.png "")  
 ![subscription_quotas](imgs/subscription_quotas.png "")  
-This document explains about below parameters screen when deploying:  
 ![main_screen](imgs/main_screen.png "")
 
 ---
