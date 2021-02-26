@@ -60,7 +60,7 @@ Only IPs from this Whitelist can access to your resources.
 
 You can check from [www.whatismyip.com](https://www.whatismyip.com/).
 
-If you want to input more than one IP, separated them by comma - not include space, Ex. “11.11.11.11,22.22.22.22,33.33.33.33”
+If you want to input more than one IP, separated them by comma - not include space, Ex: 11.11.11.11,22.22.22.22,33.33.33.33
 
 ![ip_1](imgs/ip_1.png "")
 
@@ -78,13 +78,7 @@ The client name combines with environment make your resources unique among subsc
 
 Constraints: Lowercase letters and numbers only, length in range [3-10] letters.
 
-### 6. Diagnostic Storage Account Prefix
-
-This is storage account name that will store diagnostic information of your VMs.
-
-Constraints: Lowercase letters and numbers only, length in range [3-10] letters.
-
-###7. App registration ID
+### 6. App registration ID & secret
 
 This ID use for NiFi configuration, make NiFi connect to Data Lake Storage
 
@@ -109,5 +103,11 @@ Go to Certificate & Secret, create new one.
 ![azure_4](imgs/azure_4.png "")
 
 ![azure_5](imgs/azure_5.png "")
+
+### 7. Activation Key
+
+In case you don’t have it before, please leave it blank.  
+
+Constraints: Letters and numbers only, length [19] letters.  
 
 ---
