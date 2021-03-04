@@ -78,33 +78,7 @@ The client name combines with environment make your resources unique among subsc
 
 Constraints: Lowercase letters and numbers only, length in range [3-10] letters.
 
-### 6. App registration ID & secret
-
-This ID use for NiFi configuration, make NiFi connect to Data Lake Storage
-
-If you already have your own App registration, skip this step.
-
-If you don’t have any App registration, just create one: From Azure Portal -> Go to "Azure Active Directory" -> "App registrations" -> "New registration"
-
-***/!\ The name "NIFI-MARKETPLACE-APPS" just an example name, you can use any name as you like.***
-
-![azure_1](imgs/azure_1.png "")
-
-Go to Overview, get Client ID:
-
-![azure_2](imgs/azure_2.png "")
-
-Go to Certificate & Secret, create new one.
-
-![azure_3](imgs/azure_3.png "")
-
-***/!\ The name "nifi-config-secret" just an example name, you can use any name as you like***
-
-![azure_4](imgs/azure_4.png "")
-
-![azure_5](imgs/azure_5.png "")
-
-### 7. Activation Key
+### 6. Activation Key
 
 In case you don’t have it before, please leave it blank.  
 
