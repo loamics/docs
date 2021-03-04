@@ -1,6 +1,6 @@
 # User Manual for Data Platform
 
-###### Version 1.0.0.0
+###### Version 1.1.1.0
 
 ![main_screen](user_manual/imgs/offers_logo.png "")
 

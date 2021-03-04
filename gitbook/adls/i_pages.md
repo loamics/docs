@@ -1,6 +1,6 @@
 # Connect PowerBI to Azure DataLake Storage content on Windows
 
-###### Version 1.0.0.0
+###### Version 1.1.1.0
 
 ## I. About this document
 
