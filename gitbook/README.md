@@ -4,8 +4,6 @@
 
 ![main_screen](user_manual/imgs/offers_logo.png "")
 
-Applications
-
 ![pda_offer_logo](user_manual/imgs/datalogo_350x350_Datacollect.png)
 
 ![dtl_offer_logo](user_manual/imgs/datalogo_350x350_Datalake.png)
