@@ -4,7 +4,7 @@
 
 ![main_screen](user_manual/imgs/offers_logo.png "")
 
-![pda_offer_logo](user_manual/imgs/2021-04-02 15_37_07-.png)
+![pda_offer_logo](user_manual/imgs/loamics_logo_apps.png "")
 
 ## I. About this document
 
