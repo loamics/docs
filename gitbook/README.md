@@ -4,11 +4,7 @@
 
 ![main_screen](user_manual/imgs/offers_logo.png "")
 
-![pda_offer_logo](user_manual/imgs/datalogo_350x350_Datacollect.png)
-
-![dtl_offer_logo](user_manual/imgs/datalogo_350x350_Datalake.png)
-
-![algo_offer_logo](user_manual/imgs/datalogo_350x350_AlgoEngine.png)
+![pda_offer_logo](user_manual/imgs/2021-04-02 15_37_07-.png)
 
 ## I. About this document
 
