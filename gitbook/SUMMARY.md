@@ -38,6 +38,8 @@
 
 ---
 * [Connector Warp10](tableau/index_pages.md)
+	* [I. About this document](tableau/i_pages.md)
+	* [II. Prerequisites](tableau/ii_pages.md)
 <!---
 * [GitBook samples](https://docs.gitbook.com/)
 	* [Recalbox](https://recalbox.gitbook.io/documentation/)
