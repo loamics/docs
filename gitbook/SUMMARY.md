@@ -38,5 +38,5 @@
 
 ---
 
-* [Connector Warp10](tableau/index_pages.md)
+* [Connector Warp10](warp10/index_pages.md)
 	* [I. In Progress]
