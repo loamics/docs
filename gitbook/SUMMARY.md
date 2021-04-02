@@ -37,6 +37,7 @@
 	* [VI. Galery](tableau/vi_pages.md)
 
 ---
+* [Connector Warp10](tableau/index_pages.md)
 <!---
 * [GitBook samples](https://docs.gitbook.com/)
 	* [Recalbox](https://recalbox.gitbook.io/documentation/)
