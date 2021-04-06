@@ -38,5 +38,17 @@
 
 ---
 
+* [Deployment Models](deployment/index_pages.md)
+	* [I. HA](deployment/i_pages.md)
+		* [DataCollect](deployment/i_s1_pages.md)
+		* [DataLake](deployment/i_s2_pages.md)
+		* [DataConnect](deployment/i_s3_pages.md)
+	* [II. SA](deployment/ii_pages.md)
+		* [DataCollect](deployment/ii_s1_pages.md)
+		* [DataLake](deployment/ii_s2_pages.md)
+		* [DataConnect](deployment/ii_s3_pages.md)
+
+---
+
 * [Connector Warp10](warp10/index_pages.md)
 	* [I. In Progress]

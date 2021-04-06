@@ -1,4 +1,4 @@
-### Step 1. Connect PowerBI to ADLS 
+### Step 1. Connect PowerBI to ADLS
 
 ##### 1. Click "Get data"
 
