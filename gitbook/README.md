@@ -8,7 +8,7 @@
 
 ## I. About this document
 
-This document explains about below parameters screen when deploying:
+This document explains how user can deploy an offer from Azure Market Place:
 
 ![main_screen](user_manual/imgs/Select_offer_from_Azure1.png "")
 
