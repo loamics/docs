@@ -11,5 +11,6 @@
 This document explains about below parameters screen when deploying:
 
 ![main_screen](user_manual/imgs/main_screen.png "")
+![main_screen](user_manual/imgs/Select offer from Azure1.png "")
 
 ---
