@@ -2,9 +2,9 @@
 
 ###### Version 1.1.1.0
 
-## I. SA
+## I. Standard Availibility
 
-### DataConnect
+### Algo Engine
 
 ![sa_dataconnect](imgs/Paas-Archi-Offer3-Infra-minimum.png "")
 
