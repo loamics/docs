@@ -6,7 +6,7 @@ In this tutorial, you'll learn how to connect and use SFTP server hosted on Azur
 Windows -> Start Menu -> All Programs -> WinSCP:  
 ![winscp_desktop_open](imgs/winscp_desktop_open.png "")
 
-Create New Site:
+Create New Site:  
 ① Select New Site.  
 ② Select SFTP protocol.  
 ③ Paste the SFTP Enpoint (`sftpUrl`)  
@@ -16,9 +16,9 @@ Create New Site:
 
 ![winscp_desktop_newsite1](imgs/winscp_desktop_newsite1.png "")
 
-Authenticate:  
-① Select Authentication
-② Click "..." to select .PPK file
+Authenticate:   
+① Select Authentication  
+② Click "..." to select .PPK file  
 ![winscp_desktop_authen1](imgs/winscp_desktop_authen1.png "")
 
 Click "Save":  
@@ -36,7 +36,7 @@ you have all permission on folder `datadrive-shared`:
 
 ### Using FileZilla
 
-Create New Site:
+Create New Site:  
 ① Select New Site.  
 ② Select General tab.  
 ③ Select SFTP protocol.  
@@ -49,4 +49,5 @@ Create New Site:
 ![filezilla_desktop_newsite1](imgs/filezilla_desktop_newsite1.png)
 
 If evrything ok, you will access to SFTP Server
+
 ---

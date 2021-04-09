@@ -5,7 +5,7 @@ Once you install the PuTTY on your machine, you can easily run PuTTYgen.
 For the same, go to Windows -> Start Menu -> All Programs -> PuTTY -> PuTTYgen.  
 ![puttygen_desktop_open](imgs/puttygen_desktop_open.png "")
 
-Select "LOAD":
+Select "LOAD":  
 ![puttygen_desktop_load](imgs/puttygen_desktop_load.png "")
 
 Select your SFTP Private key:  

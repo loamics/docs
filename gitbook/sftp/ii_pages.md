@@ -8,14 +8,14 @@
 
 ##### 3. PuttyGen – Here is the version we use for this tutorial
 
-Once you install the PuTTY on your machine, you can easily run PuTTYgen.  
-![puttygen_desktop_version](imgs/puttygen_desktop_version.png "")
-![putty_desktop_version](imgs/putty_desktop_version.png "")
+Once you install the PuTTY on your machine, you can easily run PuTTYgen.   
+![puttygen_desktop_version](imgs/puttygen_desktop_version.png "")  
+![putty_desktop_version](imgs/putty_desktop_version.png "")  
 
 ##### 3. SFTP private key - the key you will use to authenticate the SFTP server
 
 ![sftp_pk_prepair](imgs/sftp_pk_prepair.png "")  
-this is the key that you generated in Step 2 of [Deployment-User-Manual]
+this is the key that you generated in Step 2 of [Deployment-User-Manual]  
 
 ##### 4. You’ll need to know the Azure Endpoint of the SFTP server
 
