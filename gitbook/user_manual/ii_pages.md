@@ -12,11 +12,11 @@ Open CMD on windows (Window button + R → “cmd”):
 
 This document using OpenSSH to generate key pairs (you can use any tool as you like)
 
-##### 1. Run command: ssh-keygen
+①. Run command: ssh-keygen
 
-##### 2. Enter file name
+②. Enter file name
 
-##### 3. Enter your passphrase or skip it by Enter
+③. Enter your passphrase or skip it by Enter
 
 ![ssh_1](imgs/ssh_1.png "")
 
@@ -38,11 +38,11 @@ Note: If you want to use an already exist key pair, you can skip this step.
 
 Open CMD on windows:
 
-##### 1. Run command: ssh-keygen
+①. Run command: ssh-keygen
 
-##### 2. Enter file name
+②. Enter file name
 
-##### 3. Enter your passphrase or skip it by Enter
+③. Enter your passphrase or skip it by Enter
 
 ![ssh_4](imgs/ssh_4.png "")
 
@@ -68,7 +68,7 @@ If you want to input more than one IP, separated them by comma - not include spa
 
 This is environment name in short for all resources, something like “prod” (for production) or “test” (for testing) or “dev” (for develop), etc...
 
-Contraints: Lowercase letters and numbers only, length in range [3-7] letters.
+**Constraints**: Lowercase letters and numbers only, length in range [3-7] letters.
 
 ### 5. Client name
 
@@ -76,7 +76,7 @@ This is your company/organization in short.
 
 The client name combines with environment make your resources unique among subscriptions. This field should not include some word that reserved by Microsoft (refer document link: https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/error-reserved-resource-name) (ex: ~~login|microsoft|windows|xbox~~,..etc)
 
-Constraints: Lowercase letters and numbers only, length in range [3-10] letters.
+**Constraints**: Lowercase letters and numbers only, length in range [3-10] letters.
 
 ### 6. Optional Connectors
 
@@ -89,6 +89,6 @@ In case you decide to exclude Warp 10: Unselect Warp 10 in the check box.
 
 In case you don’t have it before, please leave it blank.  
 
-Constraints: Letters and numbers only, length [19] letters.  
+**Constraints**: Letters and numbers only, length [19] letters.  
 
 ---

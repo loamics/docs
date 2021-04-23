@@ -6,7 +6,7 @@
 
 ### DataCollect
 
-![sa_datacollect](imgs/Deployment_offer1_SA_infra_v1.1.1.png "")
+![sa_datacollect](imgs/Deployment_SA_offer1_infra_v1.1.1.png "")
 
 ###### Version 1.1.2.0
 
@@ -14,6 +14,6 @@
 
 ### DataCollect
 
-![sa_datacollect](imgs/Deployment_offer1_SA_infra_v1.1.2.png "")
+![sa_datacollect](imgs/Deployment_SA_offer1_infra_v1.1.2.png "")
 
 ---

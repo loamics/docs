@@ -6,7 +6,7 @@
 
 ### Algo Engine
 
-![sa_dataconnect](imgs/Deployment_offer3_SA_infra_v1.1.1.png "")
+![sa_dataconnect](imgs/Deployment_SA_offer3_infra_v1.1.1.png "")
 
 ###### Version 1.1.2.0
 
@@ -14,6 +14,6 @@
 
 ### Algo Engine
 
-![sa_dataconnect](imgs/Deployment_offer3_SA_infra_v1.1.2.png "")
+![sa_dataconnect](imgs/Deployment_SA_offer3_infra_v1.1.2.png "")
 
 ---

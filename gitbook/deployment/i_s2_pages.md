@@ -6,7 +6,7 @@
 
 ### DataLake
 
-![ha_datalake](imgs/Deployment_offer2_HA_infra_v1.1.1.png "")
+![ha_datalake](imgs/Deployment_HA_offer2_infra_v1.1.1.png "")
 
 ###### Version 1.1.2.0
 
@@ -14,6 +14,6 @@
 
 ### DataLake
 
-![ha_datalake](imgs/Deployment_offer2_HA_infra_v1.1.2.png "")
+![ha_datalake](imgs/Deployment_HA_offer2_infra_v1.1.2.png "")
 
 ---

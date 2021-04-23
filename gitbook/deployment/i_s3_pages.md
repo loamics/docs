@@ -6,7 +6,7 @@
 
 ### DataConnect
 
-![ha_dataconnect](imgs/Deployment_offer3_HA_infra_v1.1.1.png "")
+![ha_dataconnect](imgs/Deployment_HA_offer3_infra_v1.1.1.png "")
 
 ###### Version 1.1.2.0
 
@@ -14,6 +14,6 @@
 
 ### DataConnect
 
-![ha_dataconnect](imgs/Deployment_offer3_HA_infra_v1.1.2.png "")
+![ha_dataconnect](imgs/Deployment_HA_offer3_infra_v1.1.2.png "")
 
 ---
