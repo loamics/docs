@@ -2,10 +2,18 @@
 
 ###### Version 1.1.1.0
 
-## I. SA
+## I. Standard Availibility (SA)
 
 ### DataCollect
 
-![sa_datacollect](imgs/Paas-Archi-Offer1-Infra-Minimim.png "")
+![sa_datacollect](imgs/Deployment_offer1_SA_infra_v1.1.1.png "")
+
+###### Version 1.1.2.0
+
+## I. Standard Availibility (SA)
+
+### DataCollect
+
+![sa_datacollect](imgs/Deployment_offer1_SA_infra_v1.1.2.png "")
 
 ---
