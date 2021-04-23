@@ -6,5 +6,6 @@ Successfully deployment screen and confirm Outputs
 
 ![verify_2](imgs/verify_2.png "")
 
+![verify_3](imgs/verify_3.png "")
 
 ---
