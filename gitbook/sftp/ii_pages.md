@@ -2,9 +2,10 @@
 
 ##### 1. Windows
 
-##### 2. WinSCP – Here is the version we use for this tutorial
+##### 2. WinSCP/FileZilla – Here is the version we use for this tutorial
 
-![winscp_desktop_version](imgs/winscp_desktop_version.png "")
+![winscp_desktop_version](imgs/winscp_desktop_version.png "")  
+![filezilla_desktop_version](imgs/filezilla_desktop_version.png "")  
 
 ##### 3. PuttyGen – Here is the version we use for this tutorial
 
