@@ -59,7 +59,7 @@
 
 ---
 
-* [Connector Warp10](warp10/index_pages.md)
+* [Warp10](warp10/index_pages.md)
 	* [I. Warp10 Connector](warp10/i_pages.md)
 		* [#1. GetHTTP](warp10/i_s1_pages.md)
 		* [#2. Eval Json Format](warp10/i_s2_pages.md)
