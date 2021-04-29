@@ -12,8 +12,8 @@
 	* [II. Prerequisites](adls/ii_pages.md)
 	* [III. Get ADLS informations](adls/iii_pages.md)
 	* [IV. Configure PowerBI access to ADLS](adls/iv_pages.md)
-		* [Step1. Connect PowerBI to ADLS](adls/iv_s1_pages.md)
-		* [Step2. Access and visualize data](adls/iv_s2_pages.md)
+		* [Step 1. Connect PowerBI to ADLS](adls/iv_s1_pages.md)
+		* [Step 2. Access and visualize data](adls/iv_s2_pages.md)
 
 ---
 
@@ -31,7 +31,7 @@
 	* [III. Download and install ODBC JSON Driver](tableau/iii_pages.md)
 	* [IV. Configure and test ODBC JSON Driver](tableau/iv_pages.md)
 	* [V. Request DataLake Parameters API](tableau/v_pages.md)
-		* [Step1. ODBC JSON DataSource](tableau/v_s1_pages.md)
+		* [Step 1. ODBC JSON DataSource](tableau/v_s1_pages.md)
 		* [Step 2. Extract the ODBC JSON Query](tableau/v_s2_pages.md)
 		* [Step 3. Go to Tableau and declare the Query for requesting Parameters](tableau/v_s3_pages.md)
 	* [VI. Galery](tableau/vi_pages.md)
@@ -60,4 +60,10 @@
 ---
 
 * [Connector Warp10](warp10/index_pages.md)
-	* [I. In Progress]
+	* [I. Warp10 Connector](warp10/i_pages.md)
+		* [#1. GetHTTP](warp10/i_s1_pages.md)
+		* [#2. Eval Json Format](warp10/i_s2_pages.md)
+		* [#3. Convert Flow to Warp10 Frame](warp10/i_s3_pages.md)
+		* [#4. Push to Warp10](warp10/i_s4_pages.md)
+	* [II. Go to the Warp10 Studio](warp10/ii_pages.md)
+	* [III. Visualize datas](warp10/iii_pages.md)
