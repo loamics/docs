@@ -4,7 +4,7 @@ Always in the Web Warp10 Studio, go to *Code* and select the Warp10 Backend Endp
 
 ![warp10_studio_conf3](imgs/warp10_studio_conf3.png "")
 
-Then add and adapt the code below, with the correct token and channel
+Then add and adapt the code below, with the correct *token* and *channel*
 
 ```
 [ 'WARP10_READTOKEN' 
