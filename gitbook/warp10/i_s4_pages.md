@@ -12,4 +12,4 @@ Push tought POST HTTP Request the Warp10 frames
 
 ![nifi_warp10_step4_conf](imgs/nifi_warp10_step4_conf.png "")
 
-No output if succes
+No output if success

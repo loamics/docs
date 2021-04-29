@@ -15,8 +15,8 @@ FETCH 'gts' STORE $gts
 
 Execute
 
-![warp10_studio_conf3_datavize](imgs/warp10_studio_conf3_datavize.png "")
+![warp10_studio_datavize](imgs/warp10_studio_datavize.png "")
 
 Then go to *Dataviz* and visualize datas
 
-![warp10_studio_conf3_datavize2](imgs/warp10_studio_conf3_datavize2.png "")
+![warp10_studio_datavize2](imgs/warp10_studio_datavize2.png "")
