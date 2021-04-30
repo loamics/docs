@@ -13,6 +13,8 @@ Then add and adapt the code below, with the correct *token* and *channel*
 FETCH 'gts' STORE $gts
 ```
 
+**/!\ Don't forget the single quotes for the Token and Channel**
+
 Execute
 
 ![warp10_studio_datavize](imgs/warp10_studio_datavize.png "")
