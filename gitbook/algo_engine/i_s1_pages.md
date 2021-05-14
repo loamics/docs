@@ -1,6 +1,6 @@
 ### Algo Catalog
 
-First get the URL in the doployment outputs info of your Azure Managed Application
+First get the URL in the deployment outputs info of your Azure Managed Application
 
 ![swagger_url](imgs/swagger_url.png "")
 
