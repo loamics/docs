@@ -67,3 +67,12 @@
 		* [#4. Push to Warp10](warp10/i_s4_pages.md)
 	* [II. Go to the Warp10 Studio](warp10/ii_pages.md)
 	* [III. Visualize datas](warp10/iii_pages.md)
+	
+---
+
+* [AlgoEngine](algo_engine/index_pages.md)
+	* [I. First steps](algo_engine/i_pages.md)
+		* [#1. Algo Catalog](algo_engine/i_s1_pages.md)
+		* [#2. Algo declaration](algo_engine/i_s2_pages.md)
+		* [#3. Algo deployment](algo_engine/i_s3_pages.md)
+		* [#4. Algo invocation](algo_engine/i_s4_pages.md)
