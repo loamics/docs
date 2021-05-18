@@ -7,8 +7,7 @@
 ![pda_offer_logo](user_manual/imgs/loamics_logo_apps.png "")
 
 ## I. About this document
-
-This document explains how user can deploy an offer from Azure Market Place:
+This document has the aim of explaining how users can deploy and integrate the Loamics offer from the Azure Market Place onto their tenant. 
 
 ![main_screen](user_manual/imgs/Select_offer_from_Azure1.png "")
 
