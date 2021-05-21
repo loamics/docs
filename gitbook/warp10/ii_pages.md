@@ -10,6 +10,6 @@ On the first connection, you need to configure the Warp 10 Backend Endpoint
 
 ![warp10_studio_conf](imgs/warp10_studio_conf.png "")
 
-And precise and adapte the backend endpoint to this format
+Precise and adapt the backend endpoint to this format
 
 ![warp10_studio_conf2](imgs/warp10_studio_conf2.png "")
