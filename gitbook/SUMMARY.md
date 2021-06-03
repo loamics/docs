@@ -76,3 +76,9 @@
 		* [#2. Algo declaration](algo_engine/i_s2_pages.md)
 		* [#3. Algo deployment](algo_engine/i_s3_pages.md)
 		* [#4. Algo invocation](algo_engine/i_s4_pages.md)
+
+---
+
+* [APIM](apim/index_pages.md)
+	* [I. Authenticate](apim/i_pages.md)
+	* [II. Administration](apim/ii_pages.md)
