@@ -6,9 +6,8 @@
 
 Learn how to authenticate to APIM.
 
-First get the URL in the deployment outputs info of your Azure Managed Application:
-
-[image]
+First get the URL in the deployment outputs info of your Azure Managed Application:  
+![](imgs/apim_output.png "")  
 
 This is APIM Portal interface:  
 ![](imgs/apim_portal.png "")
@@ -39,5 +38,6 @@ For example, when you select `Algo library catalog API`:
 ![](imgs/apim_portal_api_catalog.png "")  
 
 
+End.
 
 ---
