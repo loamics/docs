@@ -1,6 +1,6 @@
 # User Manual for Data Platform
 
-###### Version 1.1.2.0
+###### Version 1.1.3.0
 
 ## I. About this document
 

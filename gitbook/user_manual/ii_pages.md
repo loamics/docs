@@ -78,14 +78,19 @@ The client name combines with environment make your resources unique among subsc
 
 **Constraints**: Lowercase letters and numbers only, length in range [3-10] letters.
 
-### 6. Optional Connectors
+### 6. APIM Administrator email
+
+Set the e-mail address to receive all system notifications sent from API Management.  
+Just put one email here.  
+
+### 7. Optional Connectors
 
 You can decide to deploy Warp 10 or not.  
 In case you decide to include Warp 10: Select Warp 10 in the check box.   
 In case you decide to exclude Warp 10: Unselect Warp 10 in the check box.   
 ![warp10_param](imgs/warp10_param.png "")
 
-### 7. Activation Key
+### 8. Activation Key
 
 In case you don’t have it before, please leave it blank.  
 
