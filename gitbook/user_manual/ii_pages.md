@@ -78,10 +78,13 @@ The client name combines with environment make your resources unique among subsc
 
 **Constraints**: Lowercase letters and numbers only, length in range [3-10] letters.
 
-### 6. APIM Administrator email
+### 6. Custom domain name
 
-Set the e-mail address to receive all system notifications sent from API Management.  
-Just put one email here.  
+Please input your own domain name if you want to bind the service endpoints to human-readable URLs.
+
+**Constraints**: Must be a valid domain.
+
+This section is optional so you can leave it blank to continue.
 
 ### 7. Optional Connectors
 

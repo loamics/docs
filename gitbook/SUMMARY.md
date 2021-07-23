@@ -79,6 +79,3 @@
 
 ---
 
-* [APIM](apim/index_pages.md)
-	* [I. Authenticate](apim/i_pages.md)
-	* [II. Administration](apim/ii_pages.md)
