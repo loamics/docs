@@ -78,22 +78,14 @@ The client name combines with environment make your resources unique among subsc
 
 **Constraints**: Lowercase letters and numbers only, length in range [3-10] letters.
 
-### 6. Custom domain name
-
-Please input your own domain name if you want to bind the service endpoints to human-readable URLs.
-
-**Constraints**: Must be a valid domain.
-
-This section is optional so you can leave it blank to continue.
-
-### 7. Optional Connectors
+### 6. Optional Connectors
 
 You can decide to deploy Warp 10 or not.  
 In case you decide to include Warp 10: Select Warp 10 in the check box.   
 In case you decide to exclude Warp 10: Unselect Warp 10 in the check box.   
 ![warp10_param](imgs/warp10_param.png "")
 
-### 8. Activation Key
+### 7. Activation Key
 
 In case you don’t have it before, please leave it blank.  
 
