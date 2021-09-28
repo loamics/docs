@@ -79,3 +79,9 @@
 
 ---
 
+* [Admin and monitor Loamics](monitoring/index_pages.md)
+	* [I. Loamics tools](monitoring/i_pages.md)
+	* [II. Cassandra Ops Center]](monitoring/ii_pages.md)
+	* [III. Kibana]](monitoring/iii_pages.md)
+	* [IV. Grafana](monitoring/iv_pages.md)
+	* [V. Prometheus](monitoring/v_pages.md)

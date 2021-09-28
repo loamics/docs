@@ -12,13 +12,9 @@ Below 2 samples bodies
 
 ```json
 {
-
 "dataframe": "",
-
 "input": "{\"partner.code\":\"demo_general\",\"start_date\":\"2018-01-01\",\"end_date\":\"2019-12-31\", \"group\":\"fluid\"}",
-
 "technical_name": "LoamicsDemoAlgo"
-
 }
 ```
 
@@ -26,13 +22,9 @@ or
 
 ```json
 {
-
 "dataframe": "",
-
 "input": "{\"partner.code\":\"demo_general\",\"start_date\":\"2018-01-01\",\"end_date\":\"2019-12-31\", \"group\":\"delivery_point\"}",
-
 "technical_name": "LoamicsDemoAlgo"
-
 }
 ```
 
