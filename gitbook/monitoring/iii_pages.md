@@ -1,24 +1,41 @@
-## III. Visualize datas
+## III. Kibana
 
-Always in the Web Warp10 Studio, go to *Code* and select the Warp10 Backend Endpoint
+### Your window into the Elastic Stack
 
-![warp10_studio_conf3](imgs/warp10_studio_conf3.png "")
+Kibana is a free and open user interface that lets you visualize your Elasticsearch data and navigate the Elastic Stack. Do anything from tracking query load to understanding the way requests flow through your apps.
 
-Then add and adapt the code below, with the correct *token* and *channel*
+### Access to your Kibana interface
 
-```
-[ 'WARP10_READTOKEN' 
-'sensor.data.DEMO'   <<< datas channel
-{} NOW NOW ] 
-FETCH 'gts' STORE $gts
-```
+1. Go to [Azure Portal](https://portal.azure.com)
 
-**/!\ Don't forget the single quotes for the Token and Channel**
+2. Locate and go to your Managed Application
 
-Execute
+![managed_app](imgs/managed_app.png "")
 
-![warp10_studio_datavize](imgs/warp10_studio_datavize.png "")
+3. Then go to *Settings* > *Parameters and Outputs*
 
-Then go to *Dataviz* and visualize datas
+![managed_app_out](imgs/managed_app_out.png "")
 
-![warp10_studio_datavize2](imgs/warp10_studio_datavize2.png "")
+4. And get the *Kibana* URL
+
+![kibana_url](imgs/kibana_url.png "")
+
+---
+
+Here is your Kibana Interface
+
+![kibana_screen](imgs/kibana_screen.png "")
+
+### Go to Discover
+
+To access main and usefull features
+
+![kibana_discover](imgs/kibana_discover.png "")
+
+### Index Management
+
+![kibana_index](imgs/kibana_index.png "")
+
+### Dev Tools
+
+![kibana_dev](imgs/kibana_dev.png "")

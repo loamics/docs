@@ -20,7 +20,7 @@
 
 ---
 
-You get instantly the *health status* of your clusters
+You get instantly the *health status* of your cluster
 
 ![cassopscenter_screen](imgs/cassopscenter_screen.png "")
 
