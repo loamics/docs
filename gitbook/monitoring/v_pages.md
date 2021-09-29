@@ -1,4 +1,4 @@
-## III. Visualize datas
+## III. Prometheus
 
 Always in the Web Warp10 Studio, go to *Code* and select the Warp10 Backend Endpoint
 

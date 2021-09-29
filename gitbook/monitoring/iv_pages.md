@@ -1,24 +1,38 @@
-## III. Visualize datas
+## III. Grafana + Prometheus
 
-Always in the Web Warp10 Studio, go to *Code* and select the Warp10 Backend Endpoint
+### Dashboard anything. Observe everything.
+Query, visualize, alert on, and understand your data no matter where it’s stored. With Grafana you can create, explore and share all of your data through beautiful, flexible dashboards.
 
-![warp10_studio_conf3](imgs/warp10_studio_conf3.png "")
+### Access to your Grafana interface
 
-Then add and adapt the code below, with the correct *token* and *channel*
+1. Go to [Azure Portal](https://portal.azure.com)
 
-```
-[ 'WARP10_READTOKEN' 
-'sensor.data.DEMO'   <<< datas channel
-{} NOW NOW ] 
-FETCH 'gts' STORE $gts
-```
+2. Locate and go to your Managed Application
 
-**/!\ Don't forget the single quotes for the Token and Channel**
+![managed_app](imgs/managed_app.png "")
 
-Execute
+3. Then go to *Settings* > *Parameters and Outputs*
 
-![warp10_studio_datavize](imgs/warp10_studio_datavize.png "")
+![managed_app_out](imgs/managed_app_out.png "")
 
-Then go to *Dataviz* and visualize datas
+4. And get the *Grafana* URL
 
-![warp10_studio_datavize2](imgs/warp10_studio_datavize2.png "")
+![grafana_url](imgs/grafana_url.png "")
+
+---
+
+### Autentication
+
+Use the credentials given with the Azure URLs
+
+![grafana_login](imgs/grafana_login.png "")
+
+Here is your Grafana Interface
+
+![grafana_home](imgs/grafana_home.png "")
+
+Explore live datas
+
+![grafana_explorer](imgs/grafana_explorer.png "")
+
+![grafana_datas](imgs/grafana_datas.png "")

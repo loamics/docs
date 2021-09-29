@@ -6,7 +6,6 @@ This document give you the keys to discover and access to the sevarals tools ava
 
 * Cassandra Ops Center
 * Kibana
-* Grafana
-* Prometheus
+* Grafana + Prometheus
 
 ---
