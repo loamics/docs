@@ -84,3 +84,4 @@
 	* [II. Cassandra Ops Center](monitoring/ii_pages.md)
 	* [III. Kibana](monitoring/iii_pages.md)
 	* [IV. Grafana+Prometheus](monitoring/iv_pages.md)
+	* [V. Update IP whitelist](monitoring/v_pages.md)

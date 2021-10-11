@@ -1,24 +1,51 @@
-## III. Prometheus
+## V. Update IP whitelist 
 
-Always in the Web Warp10 Studio, go to *Code* and select the Warp10 Backend Endpoint
+From PaaS version v1.1.3, Azure Application Gateway is applied as the below diagram:  
 
-![warp10_studio_conf3](imgs/warp10_studio_conf3.png "")
+![appgw_diagram](imgs/appgw_diagram_v1.1.3.png "")
 
-Then add and adapt the code below, with the correct *token* and *channel*
+### In case you want to update IP whitelist for above services
 
-```
-[ 'WARP10_READTOKEN' 
-'sensor.data.DEMO'   <<< datas channel
-{} NOW NOW ] 
-FETCH 'gts' STORE $gts
-```
+1. Go to [Azure Portal](https://portal.azure.com)
 
-**/!\ Don't forget the single quotes for the Token and Channel**
+2. Locate and go to your Managed Application
 
-Execute
+![managed_app](imgs/managed_app.png "")
 
-![warp10_studio_datavize](imgs/warp10_studio_datavize.png "")
+3. Locate and go to the Managed resource group
 
-Then go to *Dataviz* and visualize datas
+![managed_rg](imgs/managed-resource-group.png "")
 
-![warp10_studio_datavize2](imgs/warp10_studio_datavize2.png "")
+4. Filter `appgw` and select the Network Security Group resource type:  
+![appgw_nsg](imgs/appgw-nsg-v1.1.3.png "")
+
+5. Select `Inbound security rules` then you can update IP in the `Allow_Whitelist` rule
+
+![appgw_nsg](imgs/appgw_update_whitelist_ip.png "")
+
+When the rule is updated, you can test the connection.  
+
+If you have issues when updating the rule, maybe you don't have enough permission, you should contact Publisher for support.  
+
+### In case you want to update IP whitelist for SFTP server and SSH server
+
+Azure Application doesn't apply for SSH and SFTP server. They manage whitelist IP in the separate Network security group (NSG)
+
+1. Go to [Azure Portal](https://portal.azure.com)
+
+2. Locate and go to your Managed Application
+
+![managed_app](imgs/managed_app.png "")
+
+3. Locate and go to the Managed resource group
+
+![managed_rg](imgs/managed-resource-group.png "")
+
+4. Filter `sftp` and select the Network Security Group resource type:  
+![sftp_nsg](imgs/sftp-nsg-v1.1.3.png "")
+
+5. Select `Inbound security rules` then you can update IP in the `Allow_Whitelist` rule
+
+When the rule is updated, you can test the connection.
+
+You can filter `ssh` to do the same way with SSH server's Network security group.
