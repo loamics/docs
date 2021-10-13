@@ -1,8 +1,16 @@
 # Deployment Models
 
-###### Version 1.1.2.0
+###### Version 1.1.3.0
 
 ## I. High Availibility (HA)
+
+### DataLake
+
+![ha_datalake](imgs/Deployment_HA_offer2_infra_v1.1.3.png "")
+
+###### Version 1.1.2.0
+
+## II. High Availibility (HA)
 
 ### DataLake
 
@@ -10,7 +18,7 @@
 
 ###### Version 1.1.1.0
 
-## I. High Availibility (HA)
+## III. High Availibility (HA)
 
 ### DataLake
 
