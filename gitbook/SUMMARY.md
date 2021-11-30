@@ -79,6 +79,11 @@
 
 ---
 
+* [APIM](apim/index_pages.md)
+	* [I. First steps](apim/i_pages.md)
+
+---
+
 * [Admin and monitor Loamics](monitoring/index_pages.md)
 	* [I. Loamics tools](monitoring/i_pages.md)
 	* [II. Cassandra Ops Center](monitoring/ii_pages.md)
