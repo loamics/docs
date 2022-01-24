@@ -101,7 +101,7 @@
 		* [#4. Mise sur MarketPlace](partners_onboarding/i_s4_pages.md)
 		* [#5. Gestion du catalogue](partners_onboarding/i_s4_pages.md)
 	* [II. Bonnes pratique MarketPlace](partners_onboarding/ii_pages.md)
-	* [III. Annexes](iii_pages.md)
+	* [III. Annexes](partners_onboarding/iii_pages.md)
 		* [#1. Documents](partners_onboarding/iii_s1_pages.md)
 		* [#2. Ressources techniques](partners_onboarding/iii_s2_pages.md)
 		* [#3. Réseau](partners_onboarding/iii_s3_pages.md)
