@@ -90,3 +90,22 @@
 	* [III. Kibana](monitoring/iii_pages.md)
 	* [IV. Grafana+Prometheus](monitoring/iv_pages.md)
 	* [V. Update IP whitelist](monitoring/v_pages.md)
+	
+---
+
+* [Partners Onboarding](partners_onboarding/index_pages.md)
+	* [I. La stratégie](partners_onboarding/i_pages.md)
+		* [#1. Etude de faisabilité](partners_onboarding/i_s1_pages.md)
+		* [#2. Développement](partners_onboarding/i_s2_pages.md)
+		* [#3. Recette&Industrialisation](partners_onboarding/i_s3_pages.md)
+		* [#4. Mise sur MarketPlace](partners_onboarding/i_s4_pages.md)
+		* [#5. Gestion du catalogue](partners_onboarding/i_s4_pages.md)
+	* [II. Bonnes pratique MarketPlace](partners_onboarding/ii_pages.md)
+	* [III. Annexes](iii_pages.md)
+		* [#1. Documents](partners_onboarding/iii_s1_pages.md)
+		* [#2. Ressources techniques](partners_onboarding/iii_s2_pages.md)
+		* [#3. Réseau](partners_onboarding/iii_s3_pages.md)
+		* [#4. Déploiement](partners_onboarding/iii_s4_pages.md)
+		* [#5. Sécurité](partners_onboarding/iii_s5_pages.md)
+		* [#6. Exploitation](partners_onboarding/iii_s6_pages.md)
+		* [#7. MarketPlace Best Practices](partners_onboarding/iii_s7_pages.md)
