@@ -10,8 +10,6 @@
 
 ![table5.1](imgs/table5.2.png "")
 
----
-
 ![text6](imgs/text6.png "")
 
 ---

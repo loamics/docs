@@ -8,8 +8,6 @@
 
 ![table3.1](imgs/table3.2.png "")
 
----
-
 ![text4](imgs/text4.png "")
 
 ![table4](imgs/table4.png "")
