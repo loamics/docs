@@ -108,4 +108,3 @@
 		* [#4. Déploiement](partners_onboarding/iii_s4_pages.md)
 		* [#5. Sécurité](partners_onboarding/iii_s5_pages.md)
 		* [#6. Exploitation](partners_onboarding/iii_s6_pages.md)
-		* [#7. MarketPlace Best Practices](partners_onboarding/iii_s7_pages.md)
