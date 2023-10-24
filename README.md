@@ -12,4 +12,4 @@
 
 1. Access Web Doc in https://loamics.github.io/docs/
 
-1. That's all !
+1. That's all!
