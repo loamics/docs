@@ -41,7 +41,7 @@ Region `West Europe or France Central` are recommended:
   + [Azure Digital Twins - Use IoT spatial intelligence to create models of physical environments](https://azure.microsoft.com/en-us/products/digital-twins/).  
   + [Elasticsearch - The distributed, RESTful search and analytics engine](https://www.elastic.co/elasticsearch/).  
 
-### 4. Options
+### 3. Options
 
 ![options](imgs/options_tab.png "")  
 
@@ -55,7 +55,7 @@ Region `West Europe or France Central` are recommended:
 
 - `Do you have a Service Principal in your Azure AD that is reserved to be used in the Loamics Data Platform?`: To use some features such as Cloudera Hue's ADLS Gen2 connector, please create a new app registration, then input its Client ID and Client Secret here.
 
-### 5. Review and create
+### 4. Review and create
 
 Check to agree terms and conditions -> `Create`:  
 ![review](imgs/review_create_screen.png "")  
