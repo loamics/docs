@@ -1,7 +1,7 @@
 # Summary
 
 * [User Manual](README.md)
-	* [I. About this document](user_manual/i_pages.md)
+	* [I. Prerequisites](user_manual/i_pages.md)
 	* [II. Steps](user_manual/ii_pages.md)
 	* [III. Verify](user_manual/iii_pages.md)
 
@@ -56,6 +56,10 @@
 		* [DataCollect](deployment/ii_s1_pages.md)
 		* [DataLake](deployment/ii_s2_pages.md)
 		* [DataConnect](deployment/ii_s3_pages.md)
+	* [III. New Infrastructure Deployment](deployment/iii_pages.md)
+		* [DataCollect](deployment/iii_s1_pages.md)
+		* [DataCatalog](deployment/iii_s2_pages.md)
+		* [DataPrepare](deployment/iii_s3_pages.md)
 
 ---
 

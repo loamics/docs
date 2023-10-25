@@ -1,94 +1,63 @@
 ## II. Steps
 
-### 1. One SSH Public key
+###### Version 2.4.0
 
-This step creates a new SSH key pair.
+### 1. Basics
 
-Purpose: After deployment successfully finished, you can use this private key to SSH into VMs.
+Region `West Europe or France Central` are recommended:  
+![basics](imgs/basics_tab.png "")  
 
-Note: If you want to use an already exist key pair, you can skip this step. 
+### 2. Loamics Settings
 
-Open CMD on windows (Window button + R → “cmd”):
+![params](imgs/main_screen.png "") 
 
-This document using OpenSSH to generate key pairs (you can use any tool as you like)
+**General**:
 
-①. Run command: ssh-keygen
+- `Client name`: This is your company/organization in short. The value must be a string of 04-10 lower-case alphanumeric characters. It should not include some worlds that reserved by Microsoft (https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/error-reserved-resource-name)
 
-②. Enter file name
+- `White IP addresses`: The list of 1~15 IP addresses allowed to access the product. They must be separated by commas. You can see what is your Ip by browsing this site: https://www.myip.com/
 
-③. Enter your passphrase or skip it by Enter
+- `Activation key`: The product activation key. It is a string of maximum 40 alphanumeric characters. If you have no activation key, please leave this field blank.
 
-![ssh_1](imgs/ssh_1.png "")
+**Administrator's Contact**:
 
-Key pair will be created in your folder
+- `Contact name`: The administrator name. Please input your name who is getting this product.
 
-![ssh_2](imgs/ssh_2.png "")
+- `Email`: The administrator's email address. This email address to receive password of DataCollect and system notifications in the future.
 
-Open ssh-key.pub file
+**Loamics Components**: 
 
-![ssh_3](imgs/ssh_3.png "")
+- This section is mandatory. No need to unselect them.
 
-### 2. SFTP public key
+**Add-Ons**:
 
-This step creates a new SSH key pair.
+- You can select to install optional add-ons if you want.
 
-Purpose: After deployment successfully finished, you can use the private key to access into SFTP module.
+  Currently, Loamics (version 2.4.0) is providing these addons:  
+  ![params](imgs/loamics_addons_screen.png "") 
 
-Note: If you want to use an already exist key pair, you can skip this step.
+  + [IoT Hub - Connect, monitor, and manage billions of IoT assets](https://azure.microsoft.com/en-us/products/iot-hub/).  
+  + [Warp 10 - The Most Advanced Time Series Platform](https://www.warp10.io/).  
+  + [Azure Digital Twins - Use IoT spatial intelligence to create models of physical environments](https://azure.microsoft.com/en-us/products/digital-twins/).  
+  + [Elasticsearch - The distributed, RESTful search and analytics engine](https://www.elastic.co/elasticsearch/).  
 
-Open CMD on windows:
+### 4. Options
 
-①. Run command: ssh-keygen
+![options](imgs/options_tab.png "")  
 
-②. Enter file name
+- `Do you have an e-mail server?`: The Loamics Data Platform will use its e-mail system to send you notifications. Please select this option if you want to use your own e-mail system instead.
 
-③. Enter your passphrase or skip it by Enter
+- `Alert Email`: The custom email will receive alerts/notifications. By default, the alerts/notifications will be sent to the administrator's email.
 
-![ssh_4](imgs/ssh_4.png "")
+- `Alert Teams Webhook`: The Incoming Webhook URL of MS Teams Channel that will receive alerts/notifications.
 
-Key pair will be created in your folder
+- `Logs Retention Days`: How many days the service logs should be retained? Default: 5. 
 
-![ssh_5](imgs/ssh_5.png "")
+- `Do you have a Service Principal in your Azure AD that is reserved to be used in the Loamics Data Platform?`: To use some features such as Cloudera Hue's ADLS Gen2 connector, please create a new app registration, then input its Client ID and Client Secret here.
 
-Open sftp-key.pub file
+### 5. Review and create
 
-![ssh_6](imgs/ssh_6.png "")
-
-### 3. List your Whitelist IP addresses
-
-Only IPs from this Whitelist can access to your resources.
-
-You can check from [www.whatismyip.com](https://www.whatismyip.com/).
-
-If you want to input more than one IP, separated them by comma - not include space, Ex: 11.11.11.11,22.22.22.22,33.33.33.33
-
-![ip_1](imgs/ip_1.png "")
-
-### 4. Environment
-
-This is environment name in short for all resources, something like “prod” (for production) or “test” (for testing) or “dev” (for develop), etc...
-
-**Constraints**: Lowercase letters and numbers only, length in range [3-7] letters.
-
-### 5. Client name
-
-This is your company/organization in short.
-
-The client name combines with environment make your resources unique among subscriptions. This field should not include some word that reserved by Microsoft (refer document link: https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/error-reserved-resource-name) (ex: ~~login|microsoft|windows|xbox~~,..etc)
-
-**Constraints**: Lowercase letters and numbers only, length in range [3-10] letters.
-
-### 6. Optional Connectors
-
-You can decide to deploy Warp 10 or not.  
-In case you decide to include Warp 10: Select Warp 10 in the check box.   
-In case you decide to exclude Warp 10: Unselect Warp 10 in the check box.   
-![warp10_param](imgs/warp10_param.png "")
-
-### 7. Activation Key
-
-In case you don’t have it before, please leave it blank.  
-
-**Constraints**: Letters and numbers only, length [19] letters.  
+Check to agree terms and conditions -> `Create`:  
+![review](imgs/review_create_screen.png "")  
 
 ---

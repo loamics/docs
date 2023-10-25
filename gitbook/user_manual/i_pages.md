@@ -1,12 +1,10 @@
 # User Manual for Data Platform
 
-###### Version 1.1.3.0
+###### Version 2.4.0
 
-## I. About this document
+## I. Prerequisites
 
-This document explains about below parameters screen when deploying:  
-![basics](imgs/basics_tab.png "")  
+Subscription Quotas should be enough, number of vCPU from 20 to 50 (at least) are recommended:  
 ![subscription_quotas](imgs/subscription_quotas.png "")  
-![main_screen](imgs/main_screen.png "")
 
 ---

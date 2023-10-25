@@ -1,10 +1,10 @@
 # User Manual for Data Platform
 
-###### Version 2.0
+###### Version 2.4.0
 
 ![main_screen](user_manual/imgs/offers_logo.png "")
 
-![pda_offer_logo](user_manual/imgs/loamics_logo_apps.png "")
+![pda_offer_logo](user_manual/imgs/collect-catalog-prepare-v2.png "")
 
 ## I. About this document
 This document has the aim of explaining how users can deploy and integrate the Loamics offer from the Azure Market Place onto their tenant. 
