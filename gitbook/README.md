@@ -21,7 +21,7 @@ Click on Get It Now
 
 Start the deployment process
 
-![main_screen](user_manual/imgs/main_screen.png "")
+![main_screen](user_manual/imgs/basics_tab.png "")
 
 
 ---
