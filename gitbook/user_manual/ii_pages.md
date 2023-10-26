@@ -32,10 +32,9 @@ Region `West Europe or France Central` are recommended:
 **Add-Ons**:
 
 - You can select to install optional add-ons if you want.
+   ![params](imgs/loamics_addons_screen.png "") 
 
   Currently, Loamics (version 2.4.0) is providing these addons:  
-  ![params](imgs/loamics_addons_screen.png "") 
-
   + [IoT Hub - Connect, monitor, and manage billions of IoT assets](https://azure.microsoft.com/en-us/products/iot-hub/).  
   + [Warp 10 - The Most Advanced Time Series Platform](https://www.warp10.io/).  
   + [Azure Digital Twins - Use IoT spatial intelligence to create models of physical environments](https://azure.microsoft.com/en-us/products/digital-twins/).  
