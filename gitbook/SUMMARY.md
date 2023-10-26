@@ -7,6 +7,26 @@
 
 --- 
 
+* [Deployment Models](deployment/index_pages.md)
+	* [I. High Availability Infrastructure Deployment](deployment/i_pages.md)
+		* [DataCollect](deployment/i_s1_pages.md)
+		* [DataLake](deployment/i_s2_pages.md)
+		* [DataConnect](deployment/i_s3_pages.md)
+	* [II. Standard Availability Infrastructure Deployment](deployment/ii_pages.md)
+		* [DataCollect](deployment/ii_s1_pages.md)
+		* [DataLake](deployment/ii_s2_pages.md)
+		* [DataConnect](deployment/ii_s3_pages.md)
+	* [III. New Infrastructure Deployment](deployment/iii_pages.md)
+		* [DataCollect](deployment/iii_s1_pages.md)
+		* [DataCatalog](deployment/iii_s2_pages.md)
+		* [DataPrepare](deployment/iii_s3_pages.md)
+
+---
+
+* [Get Password from Keyvault](kv/index_pages.md)
+
+---
+
 * [Connect PowerBI to ADLS](adls/index_pages.md)
 	* [I. About this document](adls/i_pages.md)
 	* [II. Prerequisites](adls/ii_pages.md)
@@ -44,22 +64,6 @@
 	* [III. Download and install PuttyGen, WinSCP/FileZilla App](sftp/iii_pages.md)
 	* [IV. Convert SFTP Private Key to .ppk file](sftp/iv_pages.md)
 	* [V. Connect your local machine to SFTP server](sftp/v_pages.md)
-
----
-
-* [Deployment Models](deployment/index_pages.md)
-	* [I. High Availability Infrastructure Deployment](deployment/i_pages.md)
-		* [DataCollect](deployment/i_s1_pages.md)
-		* [DataLake](deployment/i_s2_pages.md)
-		* [DataConnect](deployment/i_s3_pages.md)
-	* [II. Standard Availability Infrastructure Deployment](deployment/ii_pages.md)
-		* [DataCollect](deployment/ii_s1_pages.md)
-		* [DataLake](deployment/ii_s2_pages.md)
-		* [DataConnect](deployment/ii_s3_pages.md)
-	* [III. New Infrastructure Deployment](deployment/iii_pages.md)
-		* [DataCollect](deployment/iii_s1_pages.md)
-		* [DataCatalog](deployment/iii_s2_pages.md)
-		* [DataPrepare](deployment/iii_s3_pages.md)
 
 ---
 
