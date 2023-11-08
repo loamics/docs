@@ -1,20 +1,26 @@
-## II. Cassandra Ops Center
+## Cassandra Ops Center
+
+###### Version 2.4.0
+
+Not available
+
+###### Version 1.1.3.0
 
 [DataStax OpsCenter](http://www.datastax.com/products/datastax-opscenter) is an easy-to-use visual management and monitoring solution enabling administrators, architects, and developers to quickly provision, monitor, and maintain [DataStax Enterprise](http://www.datastax.com/products/datastax-enterprise) (DSE) clusters, which are built on the best distribution of Apache *Cassandra™*.
 
 ### Access to your OpsCenter
 
-1. Go to [Azure Portal](https://portal.azure.com)
+1/ Go to [Azure Portal](https://portal.azure.com)
 
-2. Locate and go to your Managed Application
+2/ Locate and go to your Managed Application
 
 ![managed_app](imgs/managed_app.png "")
 
-3. Then go to *Settings* > *Parameters and Outputs*
+3/ Then go to *Settings* > *Parameters and Outputs*
 
 ![managed_app_out](imgs/managed_app_out.png "")
 
-4. And get the *Cassandra Ops Center* URL
+4/ And get the *Cassandra Ops Center* URL
 
 ![cassops_url](imgs/cassops_url.png "")
 

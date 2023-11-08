@@ -23,10 +23,6 @@
 
 ---
 
-* [Get Password from Keyvault](kv/index_pages.md)
-
----
-
 * [Connect PowerBI to ADLS](adls/index_pages.md)
 	* [I. About this document](adls/i_pages.md)
 	* [II. Prerequisites](adls/ii_pages.md)
@@ -93,11 +89,12 @@
 ---
 
 * [Admin and monitor Loamics](monitoring/index_pages.md)
-	* [I. Loamics tools](monitoring/i_pages.md)
+	* [I. DataCollect UI](monitoring/i_pages.md)
 	* [II. Cassandra Ops Center](monitoring/ii_pages.md)
 	* [III. Kibana](monitoring/iii_pages.md)
-	* [IV. Grafana+Prometheus](monitoring/iv_pages.md)
+	* [IV. Grafana](monitoring/iv_pages.md)
 	* [V. Update IP whitelist](monitoring/v_pages.md)
+	* [VI. Get password from KeyVault](monitoring/vi_pages.md)
 	
 ---
 

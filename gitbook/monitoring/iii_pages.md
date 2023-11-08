@@ -1,4 +1,6 @@
-## III. Kibana
+## Kibana
+
+###### Version 2.4.0
 
 ### Your window into the Elastic Stack
 
@@ -6,17 +8,17 @@ Kibana is a free and open user interface that lets you visualize your Elasticsea
 
 ### Access to your Kibana interface
 
-1. Go to [Azure Portal](https://portal.azure.com)
+1/ Go to [Azure Portal](https://portal.azure.com)
 
-2. Locate and go to your Managed Application
+2/ Locate and go to your Managed Application
 
 ![managed_app](imgs/managed_app.png "")
 
-3. Then go to *Settings* > *Parameters and Outputs*
+3/ Then go to *Settings* > *Parameters and Outputs*
 
 ![managed_app_out](imgs/managed_app_out.png "")
 
-4. And get the *Kibana* URL
+4/ And get the *Kibana* URL
 
 ![kibana_url](imgs/kibana_url.png "")
 

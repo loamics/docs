@@ -1,12 +1,10 @@
-# Get passwords from Azure Keyvault
+## Get passwords from Azure KeyVault
 
 ###### Version 2.4.0
 
-## I. About this document
-
 This page explains how to get password to access some applications.
 
-## II. Steps
+### Access your Azure KeyVault service
 
 Start from this screen, select `Managed resource group`:  
 ![](imgs/kv-goto-mrg-screen.png "")
